@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Snipeit Suites" tests="2" errors="0" failures="0" skipped="0" time="26.554" timestamp="2024-04-30T20:58:41.077861">
+<testsuite name="Test Newasset" tests="1" errors="0" failures="0" skipped="0" time="19.951" timestamp="2024-04-30T20:58:41.096537">
+<testcase classname="Snipeit Suites.Test Newasset" name="TC001_new_asset" time="19.449">
+</testcase>
+</testsuite>
+<testsuite name="Test Newuser" tests="1" errors="0" failures="0" skipped="0" time="6.584" timestamp="2024-04-30T20:59:01.047991">
+<testcase classname="Snipeit Suites.Test Newuser" name="TC001_create_new_user" time="6.580">
+</testcase>
+</testsuite>
+</testsuite>
