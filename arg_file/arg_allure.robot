@@ -1,0 +1,1 @@
+--listener allure_robotframework:./allure-results

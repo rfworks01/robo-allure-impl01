@@ -1,0 +1,11 @@
+#pip install -U --force -r requirements.txt
+selenium 
+setuptools
+virtualenv
+robotframework
+robotframework-seleniumlibrary
+robotframework-metrics
+robotframework-pageobjectlibrary
+robotframework-faker
+robotframework-dependencylibrary
+allure-robotframework

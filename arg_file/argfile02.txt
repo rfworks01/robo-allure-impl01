@@ -1,0 +1,8 @@
+#-d -> report out option
+#--timestampoutput to attach datetime string with report name
+#-v/--variable for external variable from command line
+
+--doc """ example of command line from argument file example"
+-d reports 
+--timestampoutput 
+src/sel/test_cmdvar01.robot
